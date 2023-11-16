@@ -2,3 +2,4 @@ NABBAR ADDED!!!
 Add statement for following commit. 
 since the added branch: New Feature and features.txt file
 This is post merge text 
+This is now newMain
